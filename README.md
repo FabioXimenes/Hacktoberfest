@@ -1,5 +1,5 @@
 ## Hacktoberfest 2019
-Repository to participate in the hacktoberfest.
+Repository to participate in the hacktoberfest :bomb:. 
 
 ## Steps needed
 1. Fork this repo
