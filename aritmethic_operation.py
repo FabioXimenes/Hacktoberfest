@@ -15,3 +15,6 @@ print('20 * 5 = ', firstNumber*secondNumber)
 
 # The output : 20 / 5 = 4
 print('20 / 5 = ', firstNumber/secondNumber)
+
+# The output : 20 ** 5 = 3200000
+print('20 ** 5 = ', firstNumber**secondNumber)

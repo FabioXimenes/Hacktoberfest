@@ -4,4 +4,4 @@ exp = float(input('What is the exponent? '))
 
 res = num ** exp
 
-print (res)
+print ("Result: {}".format(res))
