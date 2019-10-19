@@ -3,7 +3,7 @@ Repository to participate in the hacktoberfest :bomb:.
 
 ## Steps needed
 1. Fork this repo
-2. Change or add any file
+2. Change or add any file(Place your file under respective folder, else create a new suitable folder)
 3. Submit a pull request
 4. Just wait a little. :D
 
