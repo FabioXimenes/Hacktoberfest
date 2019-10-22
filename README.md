@@ -10,8 +10,8 @@ Repository to participate in the hacktoberfest :bomb:.
 If you like, just leave a star :star: and let's help more people. 
 
 ## Contributors
-FabioXimenes
-larisqueiroz
-Virginia
-leandrobmarinho
-Leandro Marinho
+* FabioXimenes
+* larisqueiroz
+* Virginia
+* leandrobmarinho
+* Leandro Marinho
