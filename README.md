@@ -14,9 +14,7 @@ If you like, just leave a star :star: and let's help more people.
 * larisqueiroz
 * Virginia
 * leandrobmarinho
-* Leandro Marinho
-* Leandro B Marinho
-* Leandro Bezerra Marinho
+* rogermsarmento
 
 
 [https://github.com/lapisco/machine-learning-practices](Machine Learning)
