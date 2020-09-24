@@ -1,8 +1,8 @@
 firstNumber = 20
 secondNumber = 5
 
-print('First Number: {}'.format(firstNumber))
-print('Second Number: {}'.format(secondNumber))
+print(f'First Number: {firstNumber}')
+print(f'Second Number: {secondNumber}')
 
 # The output : 20 + 5 = 25
 print('20 + 5 = ', firstNumber+secondNumber)
