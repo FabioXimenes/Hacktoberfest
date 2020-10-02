@@ -1,1 +1,1 @@
-print("Hello world! 2020")
+print("Hello world! Hacktoberfest 2020")
