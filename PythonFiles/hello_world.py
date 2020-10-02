@@ -1,5 +1,6 @@
 # A simple program to print Hello World in python3.
-print('Hello World!')
+year = 2020
+print(f'hello world! Hacktoberfest {year}')
 
 import glob
 glob.glob('*.gif')
