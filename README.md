@@ -15,6 +15,3 @@ If you like, just leave a star :star: and let's help more people.
 * Virginia
 * leandrobmarinho
 * rogermsarmento
-
-
-[https://github.com/lapisco/machine-learning-practices](Machine Learning)
