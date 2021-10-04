@@ -1,4 +1,4 @@
-## Hacktoberfest 2019
+## Hacktoberfest
 Repository to participate in the hacktoberfest :bomb:. 
 
 ## Steps needed
